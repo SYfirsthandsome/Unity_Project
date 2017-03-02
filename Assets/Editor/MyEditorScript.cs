@@ -13,7 +13,7 @@ public class MyEditorScript {
 		foreach (string arg in System.Environment.GetCommandLineArgs()) {
 		
 		
-			Debug.Log (arg);
+			Debug.Log ("test");
 		}
 
 
